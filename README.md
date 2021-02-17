@@ -1,6 +1,7 @@
 # functions
 
 functions example (addition function).
+
 		----------------------------------------------------
 
 Write a C program that asks the user for 2 integers (x and y),
